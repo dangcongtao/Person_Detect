@@ -1,2 +1,5 @@
-output.avi
-animals.mp4
+# use for video detect
+out.mp4 
+
+# for image detect
+# img_1.jpg
