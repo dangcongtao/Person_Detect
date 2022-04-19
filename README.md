@@ -5,3 +5,6 @@
 2. detect person in video PC.
 3. detect and track person in video PC.
 4. detect and track in Jetson Nano.
+
+
+2. Detect using video as input file
